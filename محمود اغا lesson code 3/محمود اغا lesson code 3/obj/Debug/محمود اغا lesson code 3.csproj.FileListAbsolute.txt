@@ -1,0 +1,9 @@
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lesson code 3\محمود اغا lesson code 3\bin\Debug\محمود اغا lesson code 3.exe.config
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lesson code 3\محمود اغا lesson code 3\bin\Debug\محمود اغا lesson code 3.exe
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lesson code 3\محمود اغا lesson code 3\bin\Debug\محمود اغا lesson code 3.pdb
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lesson code 3\محمود اغا lesson code 3\obj\Debug\محمود اغا lesson code 3.csprojResolveAssemblyReference.cache
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lesson code 3\محمود اغا lesson code 3\obj\Debug\محمود_اغا_lesson_code_3.Form1.resources
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lesson code 3\محمود اغا lesson code 3\obj\Debug\محمود_اغا_lesson_code_3.Properties.Resources.resources
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lesson code 3\محمود اغا lesson code 3\obj\Debug\محمود اغا lesson code 3.csproj.GenerateResource.Cache
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lesson code 3\محمود اغا lesson code 3\obj\Debug\محمود اغا lesson code 3.exe
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lesson code 3\محمود اغا lesson code 3\obj\Debug\محمود اغا lesson code 3.pdb
